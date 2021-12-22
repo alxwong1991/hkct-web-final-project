@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
+
   <head>
     <title>assignment2</title>
     <meta charset="UTF-8" />
@@ -16,26 +17,18 @@
 
   <body>
     <?php
-      include './header-pages.php';
+    include './header-pages.php';
     ?>
 
     <body>
       <div class="bganth">
         <div class="anthheroContent">
           <div class="anthherologo col-12">
-            <img
-              src="https://cdn.2kgames.com/2021/06/23/60d3789b1b893logo_civ6_anth_shadow.png"
-              class="pcanthlogo"
-            />
+            <img src="https://cdn.2kgames.com/2021/06/23/60d3789b1b893logo_civ6_anth_shadow.png" class="pcanthlogo" />
           </div>
 
           <div class="lmwatchcon col-12">
-            <img
-              src="https://cdn.2kgames.com/2021/06/10/60c18baadba8cytplay1.png"
-              alt="lmanthlogo"
-              class=""
-              style="padding-top: 2em"
-            />
+            <img src="https://cdn.2kgames.com/2021/06/10/60c18baadba8cytplay1.png" alt="lmanthlogo" class="" style="padding-top: 2em" />
           </div>
 
           <!-- youtube modal -->
@@ -99,67 +92,30 @@
             </div>
 
             <div class="anthlogocon col-12">
-              <div
-                class="article-text mt-3 m-4 d-md-flex justify-content-center"
-              >
-                <a
-                  href="https://store.steampowered.com/bundle/21432/Sid_Meiers_Civilization_VI_Anthology/"
-                  class=""
-                >
+              <div class="article-text mt-3 m-4 d-md-flex justify-content-center">
+                <a href="https://store.steampowered.com/bundle/21432/Sid_Meiers_Civilization_VI_Anthology/" class="">
                   <div class="Cbutton iconc">
-                    <img
-                      class="buttonicon"
-                      src="https://cdn.2kgames.com/web/common/logo/icon_steam_black.svg"
-                      alt="steambutton"
-                    />
+                    <img class="buttonicon" src="https://cdn.2kgames.com/web/common/logo/icon_steam_black.svg" alt="steambutton" />
                   </div>
                 </a>
-                <a
-                  href="https://www.epicgames.com/store/zh-CN/p/sid-meiers-civilization-vi--anthology-edition"
-                  class=""
-                >
+                <a href="https://www.epicgames.com/store/zh-CN/p/sid-meiers-civilization-vi--anthology-edition" class="">
                   <div class="Cbutton iconc">
-                    <img
-                      class="buttonicon"
-                      src="https://cdn.2kgames.com/web/common/logo/icon_epic_black.svg"
-                      alt="epicbutton"
-                    />
+                    <img class="buttonicon" src="https://cdn.2kgames.com/web/common/logo/icon_epic_black.svg" alt="epicbutton" />
                   </div>
                 </a>
-                <a
-                  href="https://www.epicgames.com/store/zh-CN/p/sid-meiers-civilization-vi--anthology-edition"
-                  class=""
-                >
+                <a href="https://www.epicgames.com/store/zh-CN/p/sid-meiers-civilization-vi--anthology-edition" class="">
                   <div class="Cbutton iconc">
-                    <img
-                      class="buttonicon"
-                      src="https://cdn.2kgames.com/web/common/retail/icon_xbox_2.svg"
-                      alt="xboxbutton"
-                    />
+                    <img class="buttonicon" src="https://cdn.2kgames.com/web/common/retail/icon_xbox_2.svg" alt="xboxbutton" />
                   </div>
                 </a>
-                <a
-                  href="https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/"
-                  class=""
-                >
+                <a href="https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/" class="">
                   <div class="Cbutton iconc">
-                    <img
-                      class="buttonicon"
-                      src="https://cdn.2kgames.com/web/common/icons/logo_switch.svg"
-                      alt="switchbutton"
-                    />
+                    <img class="buttonicon" src="https://cdn.2kgames.com/web/common/icons/logo_switch.svg" alt="switchbutton" />
                   </div>
                 </a>
-                <a
-                  href="https://store.playstation.com/zh-hant-hk/product/UP1001-CUSA15322_00-CIV6ANTHLGY00000/"
-                  class=""
-                >
+                <a href="https://store.playstation.com/zh-hant-hk/product/UP1001-CUSA15322_00-CIV6ANTHLGY00000/" class="">
                   <div class="Cbutton iconc">
-                    <img
-                      class="buttonicon"
-                      src="https://cdn.2kgames.com/web/common/retail/icon_playstation_2.svg"
-                      alt="steambutton"
-                    />
+                    <img class="buttonicon" src="https://cdn.2kgames.com/web/common/retail/icon_playstation_2.svg" alt="steambutton" />
                   </div>
                 </a>
               </div>
@@ -189,11 +145,7 @@
             <div class="textcon col-12 table">WHAT'S INCLUDED</div>
           </div>
           <div class="herologo col-12">
-            <img
-              src="https://cdn.2kgames.com/2021/06/09/60c130473a768CivAnthology_lineup.png"
-              alt="iminclude"
-              class="d-inline-block position-relative responsive"
-            />
+            <img src="https://cdn.2kgames.com/2021/06/09/60c130473a768CivAnthology_lineup.png" alt="iminclude" class="d-inline-block position-relative responsive" />
           </div>
         </div>
       </div>
@@ -202,17 +154,11 @@
           <div class="row anthlogocon">
             <!-- box1  -->
             <div class="barimageA1 anthlogocon col-12">
-              <img
-                src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png"
-                class="topgold"
-              />
+              <img src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png" class="topgold" />
               <div class="heroContent3">
                 <div class="box2 col-12 col-md-6">
                   <div class="anthlogocon">
-                    <img
-                      src="https://cdn.2kgames.com/2020/04/30/5eab45d11905dlogo_civ6nfp_M_1.png"
-                      class="civboxlogo"
-                    />
+                    <img src="https://cdn.2kgames.com/2020/04/30/5eab45d11905dlogo_civ6nfp_M_1.png" class="civboxlogo" />
                   </div>
 
                   <div class="anthlogocon col-12">
@@ -230,14 +176,7 @@
                 <div class="col-md-1"></div>
                 <div class="anthlogocon col-12 col-md-5">
                   <div class="vdcontainer">
-                    <iframe
-                      class="responsive-iframe"
-                      src="https://www.youtube.com/embed/5KdE0p2joJw"
-                      title="YouTube video player"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen
-                    ></iframe>
+                    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/5KdE0p2joJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
@@ -245,17 +184,11 @@
             <!-- box1 ends  -->
             <!-- box2  -->
             <div class="barimageA2 anthlogocon col-12">
-              <img
-                src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png"
-                class="topgold"
-              />
+              <img src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png" class="topgold" />
               <div class="heroContent3">
                 <div class="box2 col-12 col-md-6">
                   <div class="anthlogocon">
-                    <img
-                      src="https://cdn.2kgames.com/2021/06/09/60c12fba641f0logo_civ6_rise_m.png"
-                      class="civboxlogo"
-                    />
+                    <img src="https://cdn.2kgames.com/2021/06/09/60c12fba641f0logo_civ6_rise_m.png" class="civboxlogo" />
                   </div>
 
                   <div class="anthlogocon col-12">
@@ -275,15 +208,8 @@
                 <div class="col-md-1"></div>
                 <div class="anthlogocon col-12 col-md-5">
                   <div class="vdcontainer">
-                    <iframe
-                      class="responsive-iframe"
-                      src="https://www.youtube.com/embed/IOT9T15mkX0"
-                      title="YouTube video player"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; 
-                                    encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen
-                    ></iframe>
+                    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/IOT9T15mkX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+                                    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
@@ -291,17 +217,11 @@
             <!-- box2 ends -->
             <!-- box3  -->
             <div class="barimageA3 anthlogocon col-12">
-              <img
-                src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png"
-                class="topgold"
-              />
+              <img src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png" class="topgold" />
               <div class="heroContent3">
                 <div class="box2 col-12 col-md-6">
                   <div class="anthlogocon">
-                    <img
-                      src="https://cdn.2kgames.com/2021/06/09/60c12fbaafc8dlogo_civ6_storm_m.png"
-                      class="civboxlogo"
-                    />
+                    <img src="https://cdn.2kgames.com/2021/06/09/60c12fbaafc8dlogo_civ6_storm_m.png" class="civboxlogo" />
                   </div>
 
                   <div class="anthlogocon col-12">
@@ -321,15 +241,8 @@
                 <div class="col-md-1"></div>
                 <div class="anthlogocon col-12 col-md-5">
                   <div class="vdcontainer">
-                    <iframe
-                      class="responsive-iframe"
-                      src="https://www.youtube.com/embed/trNUE32O-do"
-                      title="YouTube video player"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-                                      gyroscope; picture-in-picture"
-                      allowfullscreen
-                    ></iframe>
+                    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/trNUE32O-do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+                                      gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
@@ -337,17 +250,12 @@
             <!-- box3 ends -->
             <!-- box4  -->
             <div class="barimageA4 anthlogocon col-12">
-              <img
-                src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png"
-                class="topgold"
-              />
+              <img src="https://cdn.2kgames.com/2021/06/09/60c005f108190goldFrame_m.png" class="topgold" />
               <div class="heroContent3">
                 <div class="box2 col-12 col-md-6">
                   <div class="anthlogocon">
-                    <img
-                      src="https://cdn.2kgames.com/2021/06/09/60c12fb9998b0logo_civ6_nfp_m.png"
-                      class="civboxlogo"
-                    />
+                    <a href="../pages/PassM.php">
+                      <img src="https://cdn.2kgames.com/2021/06/09/60c12fb9998b0logo_civ6_nfp_m.png" class="civboxlogo" /></a>
                   </div>
 
                   <div class="anthlogocon col-12">
@@ -366,10 +274,7 @@
                 <div class="col-md-1"></div>
                 <div class="anthlogocon col-12 col-md-5">
                   <div class="anthlogocon">
-                    <img
-                      src="https://cdn.2kgames.com/2021/06/07/60be896029f11NFP_roadmap_d_1.jpg"
-                      class="civboxlogo"
-                    />
+                    <img src="https://cdn.2kgames.com/2021/06/07/60be896029f11NFP_roadmap_d_1.jpg" class="civboxlogo" />
                   </div>
                 </div>
               </div>
@@ -403,18 +308,10 @@
         <div class="row">
           <div class="col-md-6 col-lg-4 mt-3 mb-5">
             <div class="card">
-              <img
-                src="https://pbs.twimg.com/media/E3icSq6VkAAP5ZL.jpg"
-                alt=""
-                class="card-img-top"
-              />
+              <img src="https://pbs.twimg.com/media/E3icSq6VkAAP5ZL.jpg" alt="" class="card-img-top" />
               <div class="card-body">
                 <div class="card-wrapper">
-                  <img
-                    class="card-social-icon-twitter"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-twitter-skyblue.svg"
-                    alt=""
-                  />
+                  <img class="card-social-icon-twitter" src="https://cdn.2kgames.com/web/common/icons/icon-twitter-skyblue.svg" alt="" />
                   <p class="card-social-author">CivGame</p>
                   <p class="card-social-timestamp">11 Jun</p>
                 </div>
@@ -430,18 +327,10 @@
           </div>
           <div class="col-md-6 col-lg-4 mt-3 mb-5">
             <div class="card">
-              <img
-                src="https://pbs.twimg.com/amplify_video_thumb/1400847314743435264/img/j-n_p6hvxOqQwya9.jpg"
-                alt=""
-                class="card-img-top"
-              />
+              <img src="https://pbs.twimg.com/amplify_video_thumb/1400847314743435264/img/j-n_p6hvxOqQwya9.jpg" alt="" class="card-img-top" />
               <div class="card-body">
                 <div class="card-wrapper">
-                  <img
-                    class="card-social-icon-twitter"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-twitter-skyblue.svg"
-                    alt=""
-                  />
+                  <img class="card-social-icon-twitter" src="https://cdn.2kgames.com/web/common/icons/icon-twitter-skyblue.svg" alt="" />
                   <p class="card-social-author">CivGame</p>
                   <p class="card-social-timestamp">11 Jun</p>
                 </div>
@@ -456,18 +345,10 @@
           </div>
           <div class="col-md-12 col-lg-4 mt-3 mb-5">
             <div class="card">
-              <img
-                src="https://pbs.twimg.com/media/E1r3EOVVUAUtaBb.jpg"
-                alt=""
-                class="card-img-top"
-              />
+              <img src="https://pbs.twimg.com/media/E1r3EOVVUAUtaBb.jpg" alt="" class="card-img-top" />
               <div class="card-body">
                 <div class="card-wrapper">
-                  <img
-                    class="card-social-icon-twitter"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-twitter-skyblue.svg"
-                    alt=""
-                  />
+                  <img class="card-social-icon-twitter" src="https://cdn.2kgames.com/web/common/icons/icon-twitter-skyblue.svg" alt="" />
                   <p class="card-social-author">CivGame</p>
                   <p class="card-social-timestamp">11 Jun</p>
                 </div>
@@ -493,97 +374,59 @@
               </div>
             </div>
           </div>
-          <div
-            class="
+          <div class="
               mt-3
               m-4
               d-md-flex
               justify-content-center
               our-channel-wrapper
-            "
-          >
+            ">
             <div class="col-3 our-channel-backdrop--twitter">
               <a href="https://twitter.com/CivGame">
-                <img
-                  class="our-channel-icon"
-                  src="https://cdn.2kgames.com/web/common/icons/icon-twitter-2-white.svg"
-                  alt=""
-                />
+                <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-twitter-2-white.svg" alt="" />
               </a>
             </div>
             <div class="col-3 our-channel-backdrop--instagram">
               <a href="https://www.instagram.com/civgame/">
-                <img
-                  class="our-channel-icon"
-                  src="https://cdn.2kgames.com/web/common/icons/icon-instagram-2-white.svg"
-                  alt=""
-              /></a>
+                <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-instagram-2-white.svg" alt="" /></a>
             </div>
             <div class="col-3 our-channel-backdrop--youtube">
               <a href="https://www.youtube.com/civilization?sub_confirmation=1">
-                <img
-                  class="our-channel-icon"
-                  src="https://cdn.2kgames.com/web/common/icons/icon-youtube-2-white.svg"
-                  alt=""
-                />
+                <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-youtube-2-white.svg" alt="" />
               </a>
             </div>
             <div class="col-3 col-sm-3 our-channel-backdrop--facebook">
               <a href="https://www.facebook.com/civ">
-                <img
-                  class="our-channel-icon"
-                  src="https://cdn.2kgames.com/web/common/icons/icon-facebook-4-white.svg"
-                  alt=""
-                />
+                <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-facebook-4-white.svg" alt="" />
               </a>
             </div>
           </div>
 
           <div class="container">
-            <div
-              class="
+            <div class="
                 mt-3
                 m-4
                 d-md-flex
                 justify-content-center
                 our-channel-wrapper-mobile
-              "
-            >
+              ">
               <div class="col mb-3 our-channel-backdrop--twitter">
                 <a href="https://twitter.com/CivGame">
-                  <img
-                    class="our-channel-icon"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-twitter-2-white.svg"
-                    alt=""
-                  />
+                  <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-twitter-2-white.svg" alt="" />
                 </a>
               </div>
               <div class="col mb-3 our-channel-backdrop--instagram">
                 <a href="https://www.instagram.com/civgame/">
-                  <img
-                    class="our-channel-icon"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-instagram-2-white.svg"
-                    alt=""
-                /></a>
+                  <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-instagram-2-white.svg" alt="" /></a>
               </div>
               <div class="col mb-3 our-channel-backdrop--youtube">
-                <a
-                  href="https://www.youtube.com/civilization?sub_confirmation=1"
-                >
-                  <img
-                    class="our-channel-icon"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-youtube-2-white.svg"
-                    alt=""
-                  />
+                <a href="https://www.youtube.com/civilization?sub_confirmation=1">
+                  <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-youtube-2-white.svg" alt="" />
                 </a>
               </div>
               <div class="col mb-3 col-sm-3 our-channel-backdrop--facebook">
                 <a href="https://www.facebook.com/civ">
-                  <img
-                    class="our-channel-icon"
-                    src="https://cdn.2kgames.com/web/common/icons/icon-facebook-4-white.svg"
-                    alt=""
-                  />
+                  <img class="our-channel-icon" src="https://cdn.2kgames.com/web/common/icons/icon-facebook-4-white.svg" alt="" />
                 </a>
               </div>
             </div>
@@ -617,25 +460,11 @@
               <form action="" class="mt-3 mb-5 p-3 bg-transparent">
                 <div class="row">
                   <div class="mb-3 col-md-12">
-                    <input
-                      type="text"
-                      name="email"
-                      class="form-control"
-                      placeholder="Email Address"
-                    />
+                    <input type="text" name="email" class="form-control" placeholder="Email Address" />
                   </div>
                   <div class="mb-3 mt-3 col-md-6">
-                    <select
-                      name="dob-month"
-                      class="form-select"
-                      required="required"
-                    >
-                      <option
-                        value
-                        disabled
-                        selected
-                        class="option-placeholder"
-                      >
+                    <select name="dob-month" class="form-select" required="required">
+                      <option value disabled selected class="option-placeholder">
                         Birth Month
                       </option>
                       <option value="1">January</option>
@@ -653,17 +482,8 @@
                     </select>
                   </div>
                   <div class="mb-3 mt-3 col-md-6">
-                    <select
-                      name="dob-year"
-                      class="form-select year-of-birth"
-                      required="required"
-                    >
-                      <option
-                        value
-                        disabled
-                        selected
-                        class="option-placeholder"
-                      >
+                    <select name="dob-year" class="form-select year-of-birth" required="required">
+                      <option value disabled selected class="option-placeholder">
                         Birth Year
                       </option>
                       <option value="year-1940">1940</option>
@@ -752,17 +572,8 @@
                   </div>
 
                   <div class="mb-3 mt-3 col-md-12">
-                    <select
-                      name="country"
-                      class="form-select"
-                      required="required"
-                    >
-                      <option
-                        value
-                        disabled
-                        selected
-                        class="option-placeholder"
-                      >
+                    <select name="country" class="form-select" required="required">
+                      <option value disabled selected class="option-placeholder">
                         Region
                       </option>
                       <option value="Afganistan">Afghanistan</option>
@@ -1061,13 +872,7 @@
                     <input class="form-check-input" type="checkbox" />
                     <p style="color: #fff">
                       I have read and understand the
-                      <a
-                        class="reuse-font"
-                        href="https://www.take2games.com/privacy/"
-                        onmouseover="this.style.color='#fff'"
-                        onmouseleave="this.style.color='#dda833'"
-                        >Privacy Policy</a
-                      >
+                      <a class="reuse-font" href="https://www.take2games.com/privacy/" onmouseover="this.style.color='#fff'" onmouseleave="this.style.color='#dda833'">Privacy Policy</a>
                     </p>
                   </div>
                   <div class="newsletter-submit-btn">
@@ -1084,7 +889,7 @@
     </section>
 
     <?php
-      include './footer-pages.php';
+    include './footer-pages.php';
     ?>
   </body>
   <script src="https://use.fontawesome.com/4411da1e28.js"></script>
@@ -1093,4 +898,5 @@
   <script src="../js/bootstrap/bootstrap.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="../js/script.js"></script>
-</html>
+
+</php>

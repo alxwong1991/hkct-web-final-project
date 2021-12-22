@@ -29,6 +29,7 @@ if (isset($_POST["signup"])) {
             $_POST["signup_password"] = "";
             $_POST["signup_cpassword"] = "";
             echo "<script>alert('User registration sucessful.');</script>";
+            header("Location: login.php");
         } else {
             echo "<script>alert('User registration failed.');</script>";
         }

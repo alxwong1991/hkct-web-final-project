@@ -52,3 +52,8 @@ $(document).ready(function () {
 
 //   select.appendChild(option);
 // }
+
+function myFunction() {
+  var element = document.getElementById("custom-tick");
+  element.classList.toggle("mystyle");
+}
