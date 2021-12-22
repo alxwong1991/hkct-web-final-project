@@ -1,0 +1,506 @@
+.anthhero {
+  background: no-repeat center/80%
+    url("https://cdn.2kgames.com/2021/06/09/60c125f8f36cfciv6A_marquee_m.jpg");
+  display: block;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  padding-top: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+.bganth {
+  background-image: url("https://cdn.2kgames.com/2021/06/09/60c125f82f069civ6A_marquee_d.jpg");
+  width: 100%;
+  height: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.ribbon {
+  background-image: url("https://cdn.2kgames.com/2021/06/09/60c005d111780ribbon_d.png");
+
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: 99;
+  padding-top: -30%;
+  background-size: contain;
+  background-position: 50%;
+
+  width: 102%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: -2.9rem;
+}
+
+.mbanthlogo {
+  display: none;
+}
+.anthwatch {
+  margin-top: 2em;
+}
+.anthheroContent {
+  padding-top: 8%;
+  height: 650px;
+}
+.anthherologo {
+  justify-content: center;
+
+  display: flex;
+}
+.lmwatchcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2%;
+}
+.barimage2 {
+  background-image: url(../assets/image/BGbar.png);
+  width: 100%;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1px;
+  border: 3px solid #eec736;
+}
+.iconc {
+  margin: 0 0.5rem;
+}
+
+.bgimage2 {
+  background-image: url("https://cdn.2kgames.com/web/civilization.com/images/bg_stone_repeat.jpg");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heroContent2 {
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-box-pack: center;
+  padding-top: 5%;
+
+  width: calc(100% - 10px);
+}
+.heroContent3 {
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-box-pack: center;
+  padding-top: 12%;
+
+  width: calc(100% - 10px);
+}
+.barimageA1 {
+  background-image: url("https://cdn.2kgames.com/2021/06/07/60be8957bd41dbg_civ6-base.jpg");
+  width: 80%;
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10%;
+  display: block;
+}
+.barimageA2 {
+  background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34d8a9d1bg_civ6-risefall.jpg?size=original");
+  width: 80%;
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10%;
+  display: block;
+}
+.barimageA3 {
+  background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34b74e9fbg_civ6-gstorm.jpg");
+  width: 80%;
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10%;
+  display: block;
+}
+.barimageA4 {
+  background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34c9e6adbg_civ6-nfp.jpg");
+  width: 80%;
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10%;
+  display: block;
+  z-index: 1;
+}
+.civboxlogo {
+  max-width: 100%;
+}
+.topgold {
+  align-self: center;
+  position: absolute;
+
+  width: 70%;
+  height: 20px;
+  max-width: 100%;
+  padding-left: 25%;
+  padding-right: 15%;
+}
+.pcanthlogo {
+  max-width: 100%;
+  padding: 0 5%;
+}
+.none {
+  display: none;
+}
+
+.buttonicon {
+  height: 24px;
+  width: 24px;
+}
+.iconc {
+  padding: 10px 20px;
+}
+
+.textcon2 {
+  color: #fff;
+  margin: 0.5em 0 0.75em;
+  font-size: 1rem;
+  word-break: break-word;
+  font-family: brandon-grotesque, "sans-serif";
+  font-weight: 100;
+  box-sizing: border-box;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  display: block;
+  text-align: center;
+}
+.textconb {
+  color: #fff;
+  margin: 0.5em 0 0.75em;
+  font-size: 2.4rem;
+  word-break: break-word;
+  font-family: brandon-grotesque, "sans-serif";
+  font-weight: 100;
+  box-sizing: border-box;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  display: block;
+  text-align: center;
+  max-width: 80%;
+}
+
+@media only screen and (max-width: 768px) {
+  .mbanthlogo {
+    display: block;
+  }
+  .bganth {
+    background-image: url("https://cdn.2kgames.com/2021/06/09/60c125f8f36cfciv6A_marquee_m.jpg");
+  }
+  .anthheroContent {
+    padding-top: 18%;
+    height: 650px;
+  }
+  .barimage2 {
+    background-image: url("https://cdn.2kgames.com/2021/06/07/60be895eaddaamap_d_1.jpg");
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1px;
+    border: 3px solid #eec736;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .barimageA1 {
+    background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34a8364dbg_civ6-base_m.jpg");
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-bottom: 10%;
+    display: block;
+  }
+  .barimageA2 {
+    background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34d142aabg_civ6-risefall_m.jpg");
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-bottom: 10%;
+    display: block;
+  }
+  .barimageA3 {
+    background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34aee612bg_civ6-gstorm_m.jpg");
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-bottom: 10%;
+    display: block;
+  }
+  .barimageA4 {
+    background-image: url("https://cdn.2kgames.com/2021/06/08/60bfa34c21a94bg_civ6-nfp_m.jpg");
+    width: 100%;
+    height: 820px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-bottom: 10%;
+    display: block;
+  }
+  .topgold {
+    width: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  .ribbon {
+    background-image: url("https://cdn.2kgames.com/2021/06/09/60c005d1697caribbon_m.png");
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    width: 102%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: -2.6rem;
+  }
+  .textconb {
+    position: initial;
+    font-size: 1.8rem;
+  }
+  .none {
+    display: block;
+  }
+}
+@media only screen and (max-width: 520px) {
+  .barimage2 {
+    background-image: url("https://cdn.2kgames.com/2021/06/07/60be895eaddaamap_d_1.jpg");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1px;
+    border: 3px solid #eec736;
+  }
+  .textconb {
+    position: initial;
+    font-size: 1.2rem;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .textconb {
+    position: initial;
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 340px) {
+  .barimage2 {
+    background-image: url(https://cdn.2kgames.com/2021/06/07/60be895eaddaamap_d_1.jpg);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1px;
+    border: 3px solid #eec736;
+  }
+  .ds {
+    display: none;
+  }
+  .textconb {
+    position: initial;
+    font-size: 0.8rem;
+  }
+}
+/* ***************************************************************************** alex */
+#follow-us-backdrop {
+  background-image: url(https://cdn.2kgames.com/2021/06/08/60bfe3e635b44bg_map_m.jpg);
+  background-position: center;
+  /* background-size: cover; */
+}
+
+#newsletter-signup-backdrop {
+  background-image: url(https://cdn.2kgames.com/2021/06/08/60bff1848ddb6bg_screen1_d.jpg);
+  background-size: cover;
+}
+
+#learn-more-bar {
+  background-image: url(https://cdn.2kgames.com/2021/06/08/60beb8388babdgoldBar.gif);
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 6px;
+  background-position: 50%;
+  background-size: contain;
+  background-repeat: repeat-x;
+}
+
+.card-body {
+  background-color: #fff;
+  color: #000;
+  padding: 1.05rem 1.5rem 1.5rem;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+.card-wrapper {
+  display: grid;
+  grid-gap: 0.75rem;
+  grid-template-columns: auto auto 1fr;
+  grid-template-rows: auto;
+  align-items: center;
+}
+
+.card-social-icon-twitter {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.card-social-author {
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  background-size: contain;
+}
+
+.card-social-timestamp {
+  margin-bottom: 0;
+  font-style: italic;
+  font-size: 0.8rem;
+  text-align: right;
+  color: #555;
+}
+
+.card-social-body {
+  margin-top: 0.2rem;
+}
+
+.our-channel-backdrop--twitter {
+  background-color: #5fdfea;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--twitter:hover {
+  background-color: #000;
+}
+
+.our-channel-backdrop--instagram {
+  background-color: #f00075;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--instagram:hover {
+  background-color: #000;
+}
+
+.our-channel-backdrop--youtube {
+  background-color: #e60012;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--youtube:hover {
+  background-color: #000;
+}
+
+.our-channel-backdrop--facebook {
+  background-color: #3472b6;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--facebook:hover {
+  background-color: #000;
+}
+
+.our-channel-icon {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.newsletter-checkbox {
+  padding: 2.3rem;
+}
+
+.our-channel-wrapper-mobile {
+  display: none !important;
+}
+
+.newsletter-submit-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.newsletter-submit-btn-style {
+  background-color: #646464;
+  color: #c8c8c8;
+  border-color: #646464;
+}
+
+.newsletter-submit-btn-style:hover {
+  border-color: #c8c8c8;
+  background-color: #646464;
+}
+
+@media screen and (max-width: 767px) {
+  .our-channel-wrapper {
+    display: none;
+  }
+
+  .our-channel-wrapper-mobile {
+    display: block !important;
+  }
+
+  .our-channel-backdrop--twitter {
+    margin: auto;
+  }
+
+  .our-channel-backdrop--instagram {
+    margin: auto;
+  }
+
+  .our-channel-backdrop--youtube {
+    margin: auto;
+  }
+
+  .our-channel-backdrop--facebook {
+    margin: auto;
+  }
+}

@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+#footer-layout {
+  background-color: #000;
+}
+
+.footer-image {
+  display: block;
+  width: auto;
+  height: 100%;
+}
+
+.footer-right-component {
+  font-size: 1.5rem;
+}
+
+.footer-link {
+  text-transform: uppercase;
+  margin: 0.1rem;
+}
+
+.links {
+  font-family: brandon-grotesque, "sans-serif";
+  text-transform: uppercase;
+  display: inline;
+  margin: 0.5rem;
+  word-wrap: break-word;
+}
+
+.link-backdrop:hover {
+  color: #dbdce1;
+  transition-duration: 0.25s;
+}
+
+.copyright-footer {
+  text-transform: uppercase;
+}
+/* .footer-left-component {
+  margin-right: 10px;
+} */
+
+@media only screen and (max-width: 767px) {
+  .footer-right-component {
+    display: flex;
+    justify-content: flex-end;
+    align-self: auto;
+    margin-right: 3rem;
+  }
+}

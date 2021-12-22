@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.bglr {
+    background-image: url("https://cdn.2kgames.com/web/account/newsletters/bg_civ6_skin.jpg");
+    width: 100%;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .m100{
+      max-width: 100%;
+  }
+.regContent {
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    -webkit-box-pack: center;
+    padding-top: 3%;
+    width: calc(100% - 10px);
+  }
+.regContent2 {
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    -webkit-box-pack: center;
+    padding-top: 15%;
+    width: calc(100% - 10px);
+    padding-left: 25%;
+    padding-right: 25%;
+  }
+
+.reglogo{
+    max-width: 760px;
+    width: 100%;
+    height: 202px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textconex1{
+font-size: 2.75rem;
+font-weight: lighter;
+font-family: "Lato", sans-serif;
+}
+.textconex2{
+font-size: .8rem;
+font-weight: lighter;
+font-family: "Lato", sans-serif;
+
+}
+.textconex3{
+font-size: .9rem;
+font-weight:bolder;
+font-family: "Lato", sans-serif;
+text-align: left;
+margin-left: -2.9em;
+
+}
+.red{
+    color: red;
+    text-decoration: none;
+}
+.red:hover{
+    color: red;
+}
+.watchcon{
+    margin-top: -1.25rem;
+    margin-right:1.25em;
+}
+.regval{
+    padding-left: 10%;
+}
+.val2{
+ margin-top: 10px;
+}
+.none{display: none;}
+
+.mystyle {
+    background-color:#dda833;
+    border-radius: 1px;
+    border: 3px solid #dda833;
+    box-shadow: inset 0 0 0 2px rgb(0 0 0 / 20%);
+    padding: 10px 30px;
+    border-left-width: 3px;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 25px;
+    display: inline-block;
+    cursor: pointer;
+    transition-duration: .25s;
+    color: #232323;
+    font-family: brandon-grotesque,"sans-serif";
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.mystyle:hover{
+    background-color:#8a3100;
+    border-color: #8a3100;
+    color: #dbdce1;
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .bglr{
+    background-image: url("https://cdn.2kgames.com/web/account/newsletters/bg_civ6_skin_m.jpg");}
+}

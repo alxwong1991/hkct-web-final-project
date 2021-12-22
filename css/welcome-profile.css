@@ -1,0 +1,31 @@
+#welcome-profile-background-image {
+  background-image: url(https://cdn.2kgames.com/web/account/newsletters/bg_civ6_skin.jpg);
+  width: 100%;
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.welcome-sign {
+  display: flex;
+  justify-content: center;
+  margin-top: 15rem;
+}
+
+.user-logout-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.user-logout-btn-style {
+  background-color: #646464;
+  color: #c8c8c8;
+  border-color: #646464;
+}
+
+.user-logout-btn-style:hover {
+  border-color: #c8c8c8;
+  background-color: #646464;
+}

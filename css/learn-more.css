@@ -1,0 +1,164 @@
+/* ***************************************************************************** alex */
+#follow-us-backdrop {
+  background-image: url(https://cdn.2kgames.com/2021/06/08/60bfe3e635b44bg_map_m.jpg);
+  background-position: center;
+  /* background-size: cover; */
+}
+
+#newsletter-signup-backdrop {
+  background-image: url(https://cdn.2kgames.com/2021/06/08/60bff1848ddb6bg_screen1_d.jpg);
+  background-size: cover;
+}
+
+#learn-more-bar {
+  background-image: url(https://cdn.2kgames.com/2021/06/08/60beb8388babdgoldBar.gif);
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 6px;
+  background-position: 50%;
+  background-size: contain;
+  background-repeat: repeat-x;
+}
+
+.card-body {
+  background-color: #fff;
+  color: #000;
+  padding: 1.05rem 1.5rem 1.5rem;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+.card-wrapper {
+  display: grid;
+  grid-gap: 0.75rem;
+  grid-template-columns: auto auto 1fr;
+  grid-template-rows: auto;
+  align-items: center;
+}
+
+.card-social-icon-twitter {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.card-social-author {
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  background-size: contain;
+}
+
+.card-social-timestamp {
+  margin-bottom: 0;
+  font-style: italic;
+  font-size: 0.8rem;
+  text-align: right;
+  color: #555;
+}
+
+.card-social-body {
+  margin-top: 0.2rem;
+}
+
+.our-channel-backdrop--twitter {
+  background-color: #5fdfea;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--twitter:hover {
+  background-color: #000;
+}
+
+.our-channel-backdrop--instagram {
+  background-color: #f00075;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--instagram:hover {
+  background-color: #000;
+}
+
+.our-channel-backdrop--youtube {
+  background-color: #e60012;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--youtube:hover {
+  background-color: #000;
+}
+
+.our-channel-backdrop--facebook {
+  background-color: #3472b6;
+  height: 96px;
+  width: 96px;
+  margin: 1em;
+}
+
+.our-channel-backdrop--facebook:hover {
+  background-color: #000;
+}
+
+.our-channel-icon {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.newsletter-checkbox {
+  padding: 2.3rem;
+}
+
+.our-channel-wrapper-mobile {
+  display: none !important;
+}
+
+.newsletter-submit-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.newsletter-submit-btn-style {
+  background-color: #646464;
+  color: #c8c8c8;
+  border-color: #646464;
+}
+
+.newsletter-submit-btn-style:hover {
+  border-color: #c8c8c8;
+  background-color: #646464;
+}
+
+@media screen and (max-width: 767px) {
+  .our-channel-wrapper {
+    display: none;
+  }
+
+  .our-channel-wrapper-mobile {
+    display: block !important;
+  }
+
+  .our-channel-backdrop--twitter {
+    margin: auto;
+  }
+
+  .our-channel-backdrop--instagram {
+    margin: auto;
+  }
+
+  .our-channel-backdrop--youtube {
+    margin: auto;
+  }
+
+  .our-channel-backdrop--facebook {
+    margin: auto;
+  }
+}
