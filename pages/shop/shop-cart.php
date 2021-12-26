@@ -151,7 +151,7 @@ error_reporting(0)
                 </div>
             </div>
         </div>
-        <div class="container">
+        <!-- <div class="container">
             <div class="cart-header">
                 <h1>Cart</h1>
             </div>
@@ -166,8 +166,7 @@ error_reporting(0)
                     <span>Quantity</span>
                 </div>
             </div>
-
-        </div>
+        </div> -->
     </section>
 
     <?php
