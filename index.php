@@ -14,7 +14,7 @@
 
 <body>
   <?php
-    include './header.php';
+  include './header.php';
   ?>
 
   <!--------------------------------------------------------------------------------------------------------- hero -->
@@ -35,16 +35,17 @@
       <!-- youtube modal -->
       <div class="modal fade" id="custom-modal">
         <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          <div class="modal-content custom-modal-backdrop">
+            <div class="modal-header nb">
+              <button type="button" class="btn-close ctmclose" data-bs-dismiss="modal"></button>
             </div>
-            <div class="modal-body">
-              <div class="embed-responsive embed-responsive-16by9 vdcontainer">
+            <div class="modal-body nb">
+              <div class="embed-responsive embed-responsive-16by9 vdcontainer nb">
                 <iframe id="modal-youtube" class="
                       embed-responsive-item
                       youtube-video-style
                       responsive-iframe
+                      nb
                     " src="https://www.youtube.com/embed/FYTtl8LC_vg" allowfullscreen></iframe>
               </div>
             </div>
@@ -368,3 +369,5 @@
 <script src="./js/bootstrap/bootstrap.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="./js/script.js"></script>
+
+</html>
