@@ -1,4 +1,4 @@
-<!------------------------------------------------------------------------------------------------------- header -->
+<!-- header -->
 <header>
   <div class="container-fluid header topbar">
     <nav class="navbar navbar-expand-md navbar-dark justify-content-start">
@@ -7,14 +7,14 @@
           <li class="expandLogo" style="display: none">
             <div class="dropdown">
               <button class="dropbtnnp">
-                <a href="./index.php" class="linkhover hf civlogo">
+                <p href="../../index.php" class="linkhover hf civlogo">
                   CIVILIZATION VI
-                </a>
+                </p>
               </button>
               <div class="dropdown-content">
                 <a href="https://civilization.com/civilization-5/" class="linkhover">CIVILIZATION V</a>
-                <a href="https://civilization.com/civilization-4/" class="linkhover">CIVILIZATION IV</a>
-                <a href="https://civilization.com/civilization-3/" class="linkhover">CIVILIZATION III</a>
+                <a href="#https://civilization.com/civilization-4/" class="linkhover">CIVILIZATION IV</a>
+                <a href="https://civilization.com/civilization-4/" class="linkhover">CIVILIZATION III</a>
               </div>
             </div>
           </li>
@@ -22,12 +22,12 @@
           <li class="expandLogo cuslogo">
             <div class="dropdown">
               <button class="dropbtnnp">
-                <a href="index.php" class="linkhover hf civlogo">CIVILIZATION VI</a>
+                <a href="../../index.php" class="linkhover hf civlogo">CIVILIZATION VI</a>
               </button>
               <div class="dropdown-content">
                 <a href="https://civilization.com/civilization-5/" class="linkhover">CIVILIZATION V</a>
-                <a href="https://civilization.com/civilization-4/" class="linkhover">CIVILIZATION IV</a>
-                <a href="https://civilization.com/civilization-3/" class="linkhover">CIVILIZATION III</a>
+                <a href="#https://civilization.com/civilization-4/" class="linkhover">CIVILIZATION IV</a>
+                <a href="https://civilization.com/civilization-4/" class="linkhover">CIVILIZATION III</a>
               </div>
             </div>
           </li>
@@ -91,13 +91,13 @@
             <div class="dropdown">
               <button class="dropbtnnp">
                 <a class="nav-link hf" href="#">
-                  <img src="./assets/image/icon_social_gold.svg" alt="icon_social_gold" width="30" height="24" class="d-inline-block align-top" /></a>
+                  <img src="../../assets/image/icon_social_gold.svg" alt="icon_social_gold" width="30" height="24" class="d-inline-block align-top" /></a>
               </button>
               <div class="dropdown-content">
-                <a href="#"><img src="./assets/image/icon_youtube_gold.svg" alt="icon_yourube_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
-                <a href="#"><img src="./assets/image/icon_twitter_gold.svg" alt="icon_twitter_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
-                <a href="#"><img src="./assets/image/icon_facebook_gold.svg" alt="icon_facebook_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
-                <a href="#"><img src="./assets/image/icon_instagram_gold.svg" alt="icon_instagram_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
+                <a href="#"><img src="../../assets/image/icon_youtube_gold.svg" alt="icon_yourube_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
+                <a href="#"><img src="../../assets/image/icon_twitter_gold.svg" alt="icon_twitter_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
+                <a href="#"><img src="../../assets/image/icon_facebook_gold.svg" alt="icon_facebook_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
+                <a href="#"><img src="../../assets/image/icon_instagram_gold.svg" alt="icon_instagram_gold" width="30" height="24" style="padding: 0px 0px 5px" class="d-inline-block align-top header container-fluid" /></a>
               </div>
             </div>
           </li>
@@ -109,13 +109,13 @@
             <div class="dropdown">
               <button class="dropbtnnp">
                 <a class="nav-link hf" href="#">
-                  <img src="./assets/image/icon_2k_gold.svg" alt="icon_2k_gold" width="30" height="24" class="d-inline-block align-top" /></a>
+                  <img src="../../assets/image/icon_2k_gold.svg" alt="icon_2k_gold" width="30" height="24" class="d-inline-block align-top" /></a>
               </button>
               <div class="dropdown-content">
                 <a href="#">2K.com</a>
                 <a href="#">SUPPORT</a>
                 <a href="#">2K FORUM</a>
-                <a href="./pages/Reg.php">LOGIN/REGISTER</a>
+                <a href="#">LOGIN/REGISTER</a>
               </div>
             </div>
           </li>
@@ -124,7 +124,7 @@
             <div class="dropdown">
               <button class="btn btn-secondary dropdown-toggle header downb" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                 <a class="nav-link hf" href="#">
-                  <img src="./assets/image/icon_2k_gold.svg" alt="icon_2k_gold" width="30" height="24" class="d-inline-block align-top" /></a>
+                  <img src="../../assets/image/icon_2k_gold.svg" alt="icon_2k_gold" width="30" height="24" class="d-inline-block align-top" /></a>
               </button>
               <ul class="dropdown-menu header" aria-labelledby="dropdownMenuButton1">
                 <li>
@@ -150,20 +150,20 @@
           <div class="row">
             <div class="col-3 anthlogo">
               <a href="#">
-                <img src="./assets/image/icon_youtube_gold.svg" alt="icon_yourube_gold" width="30" height="24" style="padding: 0px 0px 0px" class="r" />
+                <img src="../../assets/image/icon_youtube_gold.svg" alt="icon_yourube_gold" width="30" height="24" style="padding: 0px 0px 0px" class="r" />
               </a>
             </div>
             <div class="col-3 anthlogo">
-              <a href="#"><img src="./assets/image/icon_twitter_gold.svg" alt="icon_twitter_gold" width="30" height="24" style="padding: 0px 0px 0px" class="" /></a>
+              <a href="#"><img src="../../assets/image/icon_twitter_gold.svg" alt="icon_twitter_gold" width="30" height="24" style="padding: 0px 0px 0px" class="" /></a>
             </div>
             <div class="col-3 anthlogo">
               <a href="#">
-                <img src="./assets/image/icon_facebook_gold.svg" alt="icon_facebook_gold" width="30" height="24" style="padding: 0px 0px 0px" class="" />
+                <img src="../../assets/image/icon_facebook_gold.svg" alt="icon_facebook_gold" width="30" height="24" style="padding: 0px 0px 0px" class="" />
               </a>
             </div>
             <div class="col-3 anthlogo">
               <a href="#">
-                <img src="./assets/image/icon_instagram_gold.svg" alt="icon_instagram_gold" width="30" height="24" style="padding: 0px 0px 0px" class="" />
+                <img src="../../assets/image/icon_instagram_gold.svg" alt="icon_instagram_gold" width="30" height="24" style="padding: 0px 0px 0px" class="" />
               </a>
             </div>
           </div>
@@ -173,12 +173,9 @@
       </div>
       <div class="shophold order-first order-md-last col-12 col-md-2">
         <div class="col-0 col-md-2"></div>
-        <a href="./pages/shop/shop-cart.php">
-          <div class="Cbutton col-12 col-md-10">SHOP NOW</div>
-        </a>
+        <div class="Cbutton col-12 col-md-10"><a>SHOP NOW</a></div>
       </div>
     </nav>
   </div>
 </header>
-
-<!--------------------------------------------------------------------------------------------------------- header ends -->
+<!-- header  ends-->

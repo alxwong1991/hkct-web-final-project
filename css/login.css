@@ -36,23 +36,6 @@
   background-color: #646464;
 }
 
-.third-party {
-  display: flex;
-  justify-content: center;
-  text-transform: uppercase;
-}
-
-.third-party-links {
-  display: flex;
-  justify-content: center;
-  font-size: 5rem;
-}
-
-.login-social-icon-links {
-  margin: 1rem;
-  color: #fff;
-}
-
 .signup {
   display: flex;
   justify-content: center;
